@@ -53,5 +53,11 @@
 - **채팅 시스템**: 사용자 간의 실시간 채팅 기능 추가.
 </details>
 
-![image](https://github.com/user-attachments/assets/dd0a534b-4373-4c8e-95f3-2844807b6cf3)
 
+<details>
+<summary>ERD</summary>
+
+## ERD
+
+![image](https://github.com/user-attachments/assets/dd0a534b-4373-4c8e-95f3-2844807b6cf3)
+</details>
