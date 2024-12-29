@@ -52,3 +52,6 @@
 - **리뷰 시스템**: 거래가 이루어진 후 사용자 간의 리뷰를 남길 수 있는 기능 추가.
 - **채팅 시스템**: 사용자 간의 실시간 채팅 기능 추가.
 </details>
+
+![image](https://github.com/user-attachments/assets/dd0a534b-4373-4c8e-95f3-2844807b6cf3)
+
